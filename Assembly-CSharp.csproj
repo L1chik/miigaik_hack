@@ -423,7 +423,7 @@
     <Compile Include="Assets\Doozy\Engine\Themes\Structs\TextureId.cs" />
     <Compile Include="Assets\Photon\Simple\Components\ContactSystems\SyncVitals\VitalsSystem\Vitals.cs" />
     <Compile Include="Assets\Photon\PhotonUtilities\PackObject\CodeGen\TypeInfo.cs" />
-    <Compile Include="Assets\UIInteraction.cs" />
+    <Compile Include="Assets\Scripts\UIInteraction.cs" />
     <Compile Include="Assets\Doozy\Engine\Touchy\Enums\SimpleSwipe.cs" />
     <Compile Include="Assets\Doozy\Engine\UI\Base\UIEffect.cs" />
     <Compile Include="Assets\Simple FPS Controller\Scripts\Wall Run\SFPSC_WallRun.cs" />
