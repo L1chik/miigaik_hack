@@ -17,6 +17,8 @@ MonoBehaviour:
   - Custom
   - Example
   - General
+  - MyUI
   Categories:
   - {fileID: 11400000, guid: 40f9e81ff80114a47a3721228ba749ed, type: 2}
   - {fileID: 11400000, guid: e74d583c5ed72fa49aa5b3c8fe89856a, type: 2}
+  - {fileID: 11400000, guid: 7aeb419dec8005b4c9eafd54c553bb75, type: 2}
