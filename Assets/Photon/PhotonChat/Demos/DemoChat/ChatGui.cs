@@ -201,7 +201,7 @@ public class ChatGui : MonoBehaviour, IChatClientListener
 		if (Input.GetKey(KeyCode.Return) || Input.GetKey(KeyCode.KeypadEnter))
 		{
 		    this.SendChatMessage(this.InputFieldChat.text);
-			this.InputFieldChat.text = "";
+			this.InputFieldChat.text = "1";
 		}
 	}
 
@@ -210,7 +210,7 @@ public class ChatGui : MonoBehaviour, IChatClientListener
 		if (this.InputFieldChat != null)
 		{
 		    this.SendChatMessage(this.InputFieldChat.text);
-			this.InputFieldChat.text = "";
+			this.InputFieldChat.text = "1";
 		}
 	}
 
